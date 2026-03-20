@@ -2,7 +2,7 @@
 
 This document contains the full prompt used to score 342 US occupations on a **Humanoid Robot Replacement Risk** axis (0–10), using Claude as the scoring LLM.
 
-This prompt was appended after pasting the full contents of the original [prompt.md](https://github.com/karpathy/jobs/blob/master/prompt.md) from [karpathy/jobs](https://github.com/karpathy/jobs), which provides structured BLS data on all 342 occupations. The original AI Exposure scoring instructions were overridden by the instructions below.
+This prompt was extended and appended after referring to the contents of the original [prompt.md](https://github.com/karpathy/jobs/blob/master/prompt.md) from [karpathy/jobs](https://github.com/karpathy/jobs), which provides structured BLS data on all 342 occupations. The original AI Exposure scoring instructions were overridden by the instructions below. 
 
 Live visualization: https://kchen023.github.io/jobs-dual-exposure/
 GitHub: https://github.com/kchen023/jobs-dual-exposure
