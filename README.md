@@ -1,6 +1,6 @@
 # AI & Robotics: A 2D Exposure Visualizer (Extended from Karpathy/Jobs)
 
-**Live site:** [kchen023.github.io/BLS-job-market-impact-by-AI-robot/](https://kchen023.github.io/BLS-job-market-impact-by-AI-robot/)
+**Live site:** [kchen023.github.io/ai-robotics-job-replacement/](https://kchen023.github.io/ai-robotics-job-replacement/)
 
 An interactive treemap visualizing **342 US occupations** (143M jobs) from the Bureau of Labor Statistics, with **dual-dimension** automation exposure scoring.
 
