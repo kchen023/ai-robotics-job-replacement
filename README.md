@@ -80,7 +80,7 @@ scores/                      # Score data files
   scores_case1_robot.json    # Robot Exposure scores (342 occupations)
 ```
 
-## Credits
+## References/Credits
 
 - **Original project:** [Andrej Karpathy](https://github.com/karpathy/jobs) — data pipeline, treemap visualization, Digital AI Exposure scoring
 - **Robot Exposure extension:** Kai Chen — scoring methodology, prompt engineering, UI integration, dual-dimension visualization
